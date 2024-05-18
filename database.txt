@@ -1,1 +1,8 @@
 Data Base: A form of electronic storage in which data is held/stored.
+
+DataBase tasks: 
+                1.Store data
+                2.Form relationships
+                3.Filter data
+                4.Search data
+                5.Perform CURD operations
