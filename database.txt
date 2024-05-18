@@ -14,3 +14,6 @@ DataBase course topics:
     CURL operations
     SQL operators techniques
     Data normalization concepts
+
+Why do database matters to software engineers?
+    I think data is heart of every applicatios & so learning to create an effective data layer that can provide the user with you the quick responses accurate responses and results is really criticals.
