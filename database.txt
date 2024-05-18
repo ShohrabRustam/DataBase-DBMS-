@@ -6,3 +6,11 @@ DataBase tasks:
                 3.Filter data
                 4.Search data
                 5.Perform CURD operations
+
+
+DataBase course topics:
+    Data & database key concepts
+    Forms of data relationships
+    CURL operations
+    SQL operators techniques
+    Data normalization concepts
