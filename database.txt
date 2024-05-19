@@ -22,3 +22,8 @@ Why do database matters to software engineers?
 Describe the concepts of the databases
 Identify the realtime examples of the databases
 Demonstrate an examples of database organisation 
+
+
+
+What is data ?
+    Data is fact & figures about well anything.
