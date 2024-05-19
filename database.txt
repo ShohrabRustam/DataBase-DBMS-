@@ -41,3 +41,5 @@ Entity : In a database management system (DBMS), an entity is a piece of data tr
 Object oriented databases : Object stored in form of an objects.
 
 Graph DataBase : The database stored in from of nodes.
+
+Document database : The database stored as JSON (Java Script Notation Object) objects.
