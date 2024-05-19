@@ -17,3 +17,8 @@ DataBase course topics:
 
 Why do database matters to software engineers?
     I think data is heart of every applicatios & so learning to create an effective data layer that can provide the user with you the quick responses accurate responses and results is really criticals.
+
+
+Describe the concepts of the databases
+Identify the realtime examples of the databases
+Demonstrate an examples of database organisation 
