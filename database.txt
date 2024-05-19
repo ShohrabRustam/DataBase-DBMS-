@@ -29,3 +29,4 @@ What is data ?
     Data is fact & figures about well anything.
 
 Database : A database is a form of electronic storage in which data is organized systematically.
+           manipulation data electronically to make it more manageable efficiently and more secure.
