@@ -30,3 +30,10 @@ What is data ?
 
 Database : A database is a form of electronic storage in which data is organized systematically.
            manipulation data electronically to make it more manageable efficiently and more secure.
+
+
+Systamatic Data: 
+                1. Identifiable features or attributes
+                2. Stores in entities
+
+Entity : In a database management system (DBMS), an entity is a piece of data tracked and stored by the system. This could be something as simple as a customer’s name and address or more complex information such as an order or invoice.
