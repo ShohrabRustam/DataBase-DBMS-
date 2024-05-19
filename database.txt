@@ -43,3 +43,8 @@ Object oriented databases : Object stored in form of an objects.
 Graph DataBase : The database stored in from of nodes.
 
 Document database : The database stored as JSON (Java Script Notation Object) objects.
+
+Cloud DataBase : 
+                    Cloud Hosting- More popular choice of database
+                    Store manage & retrieve data.
+                    Low-cost option 
