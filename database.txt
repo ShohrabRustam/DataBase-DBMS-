@@ -39,3 +39,5 @@ Systamatic Data:
 Entity : In a database management system (DBMS), an entity is a piece of data tracked and stored by the system. This could be something as simple as a customer’s name and address or more complex information such as an order or invoice.
 
 Object oriented databases : Object stored in form of an objects.
+
+Graph DataBase : The database stored in from of nodes.
