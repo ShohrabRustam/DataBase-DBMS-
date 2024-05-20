@@ -50,3 +50,5 @@ Cloud DataBase :
                     Low-cost option 
 
 Primary Key : a single, or a group of fields or columns that can uniquely identify a row in a table. 
+
+Foreign Key : a foriegn key is a fields or columns in one table that is primary key in the other table.
