@@ -14,3 +14,8 @@ SQL and relational databases:
 
 Database Management System (DBMS/DMS):
     Changes SQL instructions into a from understood by the database.
+
+
+Explain common SQL tasks
+Understanding SQL subset & sublanguages
+
