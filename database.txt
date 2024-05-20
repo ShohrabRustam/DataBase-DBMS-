@@ -72,3 +72,9 @@ Type of NoSQL Database :
 
 Big Data : Complex data that growth exponentially increases in volume with time.
             ex: IOT (social network, online shoping, etc)
+    
+    Type of Big Data : Combination of structured, semi structured & unstructured data collected from many resources.
+    Data Power : More powerful than traditional data when solving problems.
+    Data insight : Provides unique insighs to help improve decision making.
+
+       Use: Meet Demands, improve customer’s experience, Learn about customer’s behaviors
