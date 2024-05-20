@@ -68,3 +68,7 @@ Type of NoSQL Database :
         1. Document DataBase 
         2. Key-value DataBase
         3. Graph DataBase
+
+
+Big Data : Complex data that growth exponentially increases in volume with time.
+            ex: IOT (social network, online shoping, etc)
