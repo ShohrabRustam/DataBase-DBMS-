@@ -4,3 +4,6 @@ CREATE DATABASE:
 
 CREATE TABLE:
             CRETE TABLE table_name;
+
+ADD data to a table:
+        INSERT INTO table_name  (columns) values (values);
