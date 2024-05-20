@@ -26,5 +26,5 @@ SQL subset:
            DROP command:- Remove an existing object from a database.
 
         Data manipulation languages (DML): DMS is used to manipulate data in the database like inserting, updating, or deleting (CURD).
-        
+        Data Query languages (DQL): DQL define the select command to retrieve data from the database.
 
