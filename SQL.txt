@@ -102,3 +102,5 @@ Key Attributes : Used to uniquely identify an individual record of data.
     2. Composite key attribute: Any attributes combination to form unique value in each row of the table.
 
     3. Primary key attribute: A selected Candidate key attribute.
+
+    4. Foreign key attribute: An attribute that references a unique key in another table.
