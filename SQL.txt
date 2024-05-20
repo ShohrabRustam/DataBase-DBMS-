@@ -19,3 +19,10 @@ Database Management System (DBMS/DMS):
 Explain common SQL tasks
 Understanding SQL subset & sublanguages
 
+SQL subset:
+        Data defination languages (DDL):
+           create command:- Used to create storage objects in a database like tables.
+           Alter command:- Modify the structure of a table objects in a database.
+           DROP command:- Remove an existing object from a database.
+
+
