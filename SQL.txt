@@ -84,3 +84,9 @@ Generally all database support :
 Domain : A domain is the set of legal values that can be assigned to an attributes.make sure the values of 
             field can hold are well defined.
             each row in the table is also uniquely identifiedby what known as a primary key.
+
+Types of Keys in a database table
+
+    Indentify the main keys in table in a relational database.
+    Explain the relationships between keys in table
+    
