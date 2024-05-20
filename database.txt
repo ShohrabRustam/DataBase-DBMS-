@@ -78,3 +78,7 @@ Big Data : Complex data that growth exponentially increases in volume with time.
     Data insight : Provides unique insighs to help improve decision making.
 
        Use: Meet Demands, improve customer’s experience, Learn about customer’s behaviors
+
+Cloud Hosting : Lack of infrastructure, maintenance and storage costs.
+                Many server availability
+                More affordable solution
