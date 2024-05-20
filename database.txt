@@ -58,3 +58,7 @@ Foreign Key : a foriegn key is a fields or columns in one table that is primary 
 2. Explain how databases have envolved in responses to big data.
 
 Relational Database: Used for storing structured data in tabular format.
+
+NoSQL Database: Provide a flexible structure for storing and scaling data.
+                NoSQL Database used by social media platforms IOT (Internet of things), AI & other applications
+                that generate massive amounts of unstructured data.
