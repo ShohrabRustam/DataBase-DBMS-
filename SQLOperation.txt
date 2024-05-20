@@ -13,3 +13,6 @@ Update data in a table:
 
 Update data in a table:
     delete from table_name where columns = ?
+
+Query data in a table:
+    select column_name from table_name where columns =?
