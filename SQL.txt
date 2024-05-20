@@ -67,3 +67,5 @@ Table: As we already know the table made up of rows and columns which are hold d
         database holds multiple tables these tables also known as relations. they are relate to one another in more
         conceptual and logical sense a table also known as entity and in object-orienred databases or oodb 
         an entity is an object that is attributes that are like column and field in a table.
+
+Column also known as field or attributes.
