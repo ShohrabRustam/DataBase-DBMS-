@@ -52,8 +52,18 @@ Demonstrate how the advantages of SQL assist with database tasks
         Data processing : SQL processes large amount of data quickly and efficiently.
 
 
-Create a database and tables using the (Data Defination Language) DDL subset of the SQL database.
+Create a database and tables using the (Data Defination Language) DDL subset of the SQL database. Explain in SQLOperation.txt
 
-Utillize the (Data Manipulation Language)DML subset of the SQL database to populate and Modify the data in the database.
+Utillize the (Data Manipulation Language)DML subset of the SQL database to populate and Modify the data in the database. Explain in SQLOperation.txt
 
-Reading and query data within databases using the (Data Query Language)DQL subset of the SQL database.
+Reading and query data within databases using the (Data Query Language)DQL subset of the SQL database. Explain in SQLOperation.txt
+
+
+Outline what a database table is at a conceptual level. 
+
+Explain how data is structured in a database table.
+
+Table: As we already know the table made up of rows and columns which are hold data and table stored in database.
+        database holds multiple tables these tables also known as relations. they are relate to one another in more
+        conceptual and logical sense a table also known as entity and in object-orienred databases or oodb 
+        an entity is an object that is attributes that are like column and field in a table.
