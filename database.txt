@@ -62,3 +62,9 @@ Relational Database: Used for storing structured data in tabular format.
 NoSQL Database: Provide a flexible structure for storing and scaling data.
                 NoSQL Database used by social media platforms IOT (Internet of things), AI & other applications
                 that generate massive amounts of unstructured data.
+
+Type of NoSQL Database :
+        
+        1. Document DataBase 
+        2. Key-value DataBase
+        3. Graph DataBase
