@@ -56,3 +56,5 @@ Foreign Key : a foriegn key is a fields or columns in one table that is primary 
 
 1. Identify different type of databases
 2. Explain how databases have envolved in responses to big data.
+
+Relational Database: Used for storing structured data in tabular format.
