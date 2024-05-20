@@ -11,3 +11,6 @@ SQL and relational databases:
     PostgreSQL
     Oracle
     Microsoft SQL server
+
+Database Management System (DBMS/DMS):
+    Changes SQL instructions into a from understood by the database.
