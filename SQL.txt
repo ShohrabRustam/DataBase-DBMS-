@@ -68,4 +68,6 @@ Table: As we already know the table made up of rows and columns which are hold d
         conceptual and logical sense a table also known as entity and in object-orienred databases or oodb 
         an entity is an object that is attributes that are like column and field in a table.
 
-Column also known as field or attributes.
+Column also known as field or attributes. Each filed have unique name and data type.
+Rows: A set of column or attributes or fields in a table form a row in relational database terminology a row known as record.
+So a record is a combination of columns or field that contain data.
