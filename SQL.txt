@@ -80,3 +80,7 @@ Generally all database support :
     Numeric : to store whole numbers
     Data & time: store info date & time
     Binary : to store images file & other information
+
+Domain : A domain is the set of legal values that can be assigned to an attributes.make sure the values of 
+            field can hold are well defined.
+            each row in the table is also uniquely identifiedby what known as a primary key.
