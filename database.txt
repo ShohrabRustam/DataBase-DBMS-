@@ -48,3 +48,5 @@ Cloud DataBase :
                     Cloud Hosting- More popular choice of database
                     Store manage & retrieve data.
                     Low-cost option 
+
+Primary Key : a single, or a group of fields or columns that can uniquely identify a row in a table. 
