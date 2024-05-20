@@ -89,4 +89,7 @@ Types of Keys in a database table
 
     Indentify the main keys in table in a relational database.
     Explain the relationships between keys in table
-    
+
+The realational database model is based on two main concepts 
+    1. entities which are defined as table
+    2. relation that connect two realated table.
