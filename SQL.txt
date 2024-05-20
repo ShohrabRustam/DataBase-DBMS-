@@ -34,3 +34,19 @@ SQL subset:
         the database & revert privileges access already given to the users.
 
 
+
+Identify the advantage of the SQL
+
+Demonstrate how the advantages of SQL assist with database tasks 
+
+    Advantages:
+        
+        User Friendly : SQL requires very little coding skills to use.
+        
+        Standard language: Compatible with all available relational databases.
+
+        Portable language: SQL can be used on any hardware running any operating system or any platforms.
+        
+        Manage database Security
+
+        Data processing : SQL processes large amount of data quickly and efficiently.
