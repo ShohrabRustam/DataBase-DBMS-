@@ -3,3 +3,11 @@ Explain Whats SQL is
 Outline the role of SQL in database
 
 CRUD OPERATIONS: CREATE, READ , UPDATE, DELETE
+
+SQL : Standard language that can interact with structured data on databases.
+
+SQL and relational databases:
+    MySQL
+    PostgreSQL
+    Oracle
+    Microsoft SQL server
