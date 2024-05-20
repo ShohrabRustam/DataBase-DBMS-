@@ -93,3 +93,8 @@ Types of Keys in a database table
 The realational database model is based on two main concepts 
     1. entities which are defined as table
     2. relation that connect two realated table.
+
+
+Key Attributes : Used to uniquely identify an individual record of data.
+
+    1. Candidate key attribute: Any attribute that contains a unique value in each row of the table.
