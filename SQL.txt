@@ -100,3 +100,5 @@ Key Attributes : Used to uniquely identify an individual record of data.
     1. Candidate key attribute: Any attribute that contains a unique value in each row of the table.
     
     2. Composite key attribute: Any attributes combination to form unique value in each row of the table.
+
+    3. Primary key attribute: A selected Candidate key attribute.
