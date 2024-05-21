@@ -1,0 +1,9 @@
+Module Summary:
+    Provides an overview of the what database is
+    Outline real-world examples of the database usages.
+    Explain how data is organized within a database.
+    Explain the importance of related data within a database.
+    Identify an instance of related data within a database
+    Provide an overview of new trands in database applications.
+    Identify different types of database.
+    Provide high level of overview of how databases have evolved.
