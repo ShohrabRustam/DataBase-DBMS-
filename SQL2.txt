@@ -7,3 +7,15 @@ Module Summary:
     Provide an overview of new trands in database applications.
     Identify different types of database.
     Provide high level of overview of how databases have evolved.
+
+
+Modeule Summary : 
+    Outline the purpose of the SQL
+    Demonstrate an Understanding of the role of SQL
+    Identify the advantages of SQL
+    Explain how these advantages will assist you
+    Provide a high level overview of the syntax of the DDL, DML, DQL
+    Identify the main SQL commands
+    Basic Database structure 
+    Explain the concepts and purpose of a database table 
+    Identify the key components of a database table such as row, column, datatypes & keys 
