@@ -1,0 +1,20 @@
+Data Types: Data Types tell a database management system how to interpret the value of column.
+    
+    Numeric data type: datatypes that let columns store data as number within the database.
+                        Integer data type: Represents a whole number value.
+                        Decimal data type: Represents a number with a fraction value.
+        
+        TINYINT : Represents a small Integer numeric value MAX:255
+        INT : Represents a large Integer numeric value MAX:4 billion
+
+    String Data type: Used when storing data with mixed type of characters.
+
+CHAR : 
+        characters of fixed length.
+        the given length of characters is predetermined. it can't be changes after declaration
+        name CHAR(50) it will take 50 either name have less char 
+
+VARCHAR: 
+        characters of  variable length
+        the given length of characters is not predetermined. it can be changes after declaration
+        name VARCHAR(50) it will take only how many char there in name field.
