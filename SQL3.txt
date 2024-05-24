@@ -18,3 +18,14 @@ VARCHAR:
         characters of  variable length
         the given length of characters is not predetermined. it can be changes after declaration
         name VARCHAR(50) it will take only how many char there in name field.
+
+String Data type: 
+                
+                TNIYTEXT: it used to defined columns that require less than 255 characters like short paragraphs.
+                
+                TEXT : it used to define columns that require less than 65,000 characters.
+
+                MEDIUMTEXT: it used define columns require 16.7 million characters.
+
+                LONGTEXT: it used to define columns that require 4GB characters.
+
