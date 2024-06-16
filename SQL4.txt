@@ -1,0 +1,7 @@
+Constraints
+    
+    Explain the purpose of the constraints
+    
+    Indentifies the default constraints
+
+Database Constraints: Limit the type of data that can be stored in a table.
