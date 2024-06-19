@@ -6,3 +6,5 @@ Constraints
 
 Database Constraints: Limit the type of data that can be stored in a table.
                         This ensures that the data into the database is correct and reliable.
+
+NOT NULL Constraints: ensures data field never left blank.
