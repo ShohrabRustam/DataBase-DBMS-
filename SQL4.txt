@@ -13,3 +13,9 @@ NOT NULL Constraints: ensures data field never left blank.
         customer_id INT NOT NULL,
         customer_name VARCHAR(255) NOT NULL,
     );
+
+default constraints: Sets the default values for the column if no value is specified.
+
+CREATE TABLE USER (
+    city VARCHAR(255) DEFAULT "BLR",
+)
