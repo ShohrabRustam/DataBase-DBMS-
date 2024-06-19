@@ -10,3 +10,11 @@ SQL DROP DATABASE STATEMENT:
 SQL CREATE TABLE STATEMENT:
     
     CREATE TABLE TABLE_NAME (column_name datatypes...);
+
+ALTER TABLE STATEMENT:
+    
+    ALTER TABLE TABLE_NAME ADD (column_name datatypes...);
+
+    ALTER TABLE TABLE_NAME DROP column_name;
+
+    ALTER TABLE TABLE_NAME MODIFY column_name (datatypes);
