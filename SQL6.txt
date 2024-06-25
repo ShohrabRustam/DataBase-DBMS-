@@ -1,0 +1,8 @@
+Insert into a table:
+
+        INSERT INTO student (first_name, last_name, home_address, college_address, contact_number, department) VALUES
+('John', 'Doe', '123 Main St', '456 College Ave', '1234567890', 'Computer Science'),
+('Jane', 'Smith', '456 Oak St', '789 University Ave', '2345678901', 'Engineering'),
+('Michael', 'Johnson', '789 Elm St', '123 State Ave', '3456789012', 'Mathematics'),
+('Emily', 'Davis', '321 Pine St', '567 Campus Blvd', '4567890123', 'Business'),
+('David', 'Wilson', '654 Birch St', '890 Institute Ln', '5678901234', 'Physics');
