@@ -6,3 +6,7 @@ Insert into a table:
 ('Michael', 'Johnson', '789 Elm St', '123 State Ave', '3456789012', 'Mathematics'),
 ('Emily', 'Davis', '321 Pine St', '567 Campus Blvd', '4567890123', 'Business'),
 ('David', 'Wilson', '654 Birch St', '890 Institute Ln', '5678901234', 'Physics');
+
+
+Update :
+        update table_name set col1_name = '' , col2_name = '' where 
