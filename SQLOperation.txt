@@ -11,7 +11,7 @@ ADD data into a table:
 Update data in a table:
     update table_name set column_name = value where columns =?
 
-Update data in a table:
+delete data in a table:
     delete from table_name where columns = ?
 
 Query data in a table:
