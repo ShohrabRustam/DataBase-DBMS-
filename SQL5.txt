@@ -18,3 +18,6 @@ ALTER TABLE STATEMENT:
     ALTER TABLE TABLE_NAME DROP column_name;
 
     ALTER TABLE TABLE_NAME MODIFY column_name (datatypes);
+
+
+Insert into table1_name (col_name_of_table1) select column_name_of_table2 from table2_name;
