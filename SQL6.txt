@@ -9,4 +9,8 @@ Insert into a table:
 
 
 Update :
-        update table_name set col1_name = '' , col2_name = '' where 
+        update table_name set col1_name = '' , col2_name = '' where conditions
+
+
+Delete :
+        delete from table_name where conditions
