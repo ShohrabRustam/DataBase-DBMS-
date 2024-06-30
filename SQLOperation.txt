@@ -16,3 +16,8 @@ delete data in a table:
 
 Query data in a table:
     select column_name from table_name where columns =?
+
+ORDER BY CLAUSE:
+                Optional clause used for ordering or sorting data in a table.
+
+Ex: Select columns_name from table_name where columns = ? order by col_name.
