@@ -1,4 +1,9 @@
 Where clause is used to filter and retrieve records from the database that meet the specific conditions.
 
     Where clause: 
+
             Select col1_name,col2_name,... from table_name where conditions;
+    
+    Where conditions: 
+    
+                    Makes it possible to filter and retrieve records from the database that meet the specific criteria
