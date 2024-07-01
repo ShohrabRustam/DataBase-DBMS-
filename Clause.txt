@@ -11,3 +11,5 @@ SELECT DISTINCT CLAUSE:
         Returns distinct values without duplicates. 
 
     Ex: select distinct country from students;
+    
+    Ex2: select distinct faculty, country from students;
