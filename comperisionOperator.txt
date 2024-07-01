@@ -11,3 +11,6 @@ Between :
 
 Like : 
         Specify a pattern within the search criteria.
+
+IN : 
+        Specify multiple possible values for a column. 
