@@ -5,5 +5,11 @@ Where clause is used to filter and retrieve records from the database that meet 
             Select col1_name,col2_name,... from table_name where conditions;
     
     Where conditions: 
+
+        Makes it possible to filter and retrieve records from the database that meet the specific criteria.
     
-                    Makes it possible to filter and retrieve records from the database that meet the specific criteria
+    Where clause: 
+        Select col1_name,col2_name,... from table_name where id = 1; // numeric condition
+        Select col1_name,col2_name,... from table_name where name = 'Rustam'; // text condition
+    
+           
