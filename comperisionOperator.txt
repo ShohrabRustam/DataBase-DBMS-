@@ -1,0 +1,13 @@
+SQL comparison operators
+        Equal to
+        Less than 
+        Greater than 
+        Less than Equal to
+        Gtrater than equal to 
+        Not equal to
+
+Between :
+        Filter a records within a numeric or time or date range
+
+Like : 
+        Specify a pattern within the search criteria.
