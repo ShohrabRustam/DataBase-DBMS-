@@ -5,3 +5,7 @@ SELECT DISTINCT CLAUSE:
         Demonstrate how to use SELECT DISTINCT
 
         Explain how SELECT DISTINCT interacts with a database
+
+
+SELECT DISTINCT CLAUSE:  
+        Returns distinct values without duplicates. 
