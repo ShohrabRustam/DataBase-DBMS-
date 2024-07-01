@@ -13,3 +13,29 @@ SELECT DISTINCT CLAUSE:
     Ex: select distinct country from students;
     
     Ex2: select distinct faculty, country from students;
+
+Module Summary:
+
+                Make use of SQL arthmetic operators in tables.
+
+                make use of SQL comparison operators in a database.
+
+                Describe the purpose of an ORDER BY clause
+
+                Demonstrate ascending and descending sorts
+
+                
+        WHERE
+                Explain the purpose of where clause 
+
+                Describe how the where clause is used to filter data 
+
+                Use SQL Where clause with comparison operators
+
+        DISTINCT
+
+                Explain the purpose of the SELECT DISTINCT clause
+
+                Use SELECT DISTINCT to eliminate duplicates values
+
+                Use SELECT DISTINCT with columns and NULL values
