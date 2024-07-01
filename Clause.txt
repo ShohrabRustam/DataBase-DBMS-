@@ -1,0 +1,7 @@
+SELECT DISTINCT CLAUSE:  
+        
+        Describe the SELECT DISTINCT statements and its purpose.
+        
+        Demonstrate how to use SELECT DISTINCT
+
+        Explain how SELECT DISTINCT interacts with a database
