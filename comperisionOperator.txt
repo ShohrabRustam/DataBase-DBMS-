@@ -9,10 +9,13 @@ SQL comparison operators
 Between :
         Filter a records within a numeric or time or date range.
 
-        Ex: select * from students where dob Between '2010-01-01' and '2010-01-31'
+        Ex: select * from students where dob Between '2010-01-01' and '2010-01-31';
 
 Like : 
         Specify a pattern within the search criteria.
+
+        Ex: select * from students where faculty like 'sc%';
+
 
 IN : 
         Specify multiple possible values for a column. 
