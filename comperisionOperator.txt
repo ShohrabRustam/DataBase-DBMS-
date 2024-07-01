@@ -23,3 +23,5 @@ ILike :
 
 IN : 
         Specify multiple possible values for a column. 
+        
+        Ex: select * from students where country IN ('USA','UK');
