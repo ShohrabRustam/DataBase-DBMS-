@@ -14,8 +14,12 @@ Between :
 Like : 
         Specify a pattern within the search criteria.
 
-        Ex: select * from students where faculty like 'sc%';
+        Ex: select * from students where faculty like 'Sc%';
 
+ILike : 
+        Specify a pattern within the search criteria without case sensetive.
+
+        Ex: select * from students where faculty ilike 'sc%';
 
 IN : 
         Specify multiple possible values for a column. 
